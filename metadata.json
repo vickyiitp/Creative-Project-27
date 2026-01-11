@@ -1,0 +1,5 @@
+{
+  "name": "Flight Vector",
+  "description": "An authentic radar simulation game where you guide aircraft to safety amidst changing winds and traffic.",
+  "requestFramePermissions": []
+}
